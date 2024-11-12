@@ -99,7 +99,9 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-dusky-ten-36.vercel.app/api/top-langs/?username=Amaansande&show_icons=true&theme=shadow_blue&layout=compact&rank_icon=percentile&border_color=668dc8&langs_count=10"
+    srcset="https://github-readme-stats-dusky-ten-36.vercel.app/api/top-langs/?
+    
+    username=Amaansande&show_icons=true&theme=shadow_blue&layout=compact&rank_icon=percentile&border_color=668dc8&langs_count=10"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats-dusky-ten-36.vercel.app/api/top-langs/?username=Amaansande&show_icons=true&rank_icon=percentile&border_color=668dc8&langs_count=10" />
@@ -107,3 +109,8 @@
 
 ---
 -->
+
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="aman-sande" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/aman-sande?trk=profile-badge">Aman Sande</a></div>
+              
